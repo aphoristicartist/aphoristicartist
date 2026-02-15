@@ -65,4 +65,3 @@ I contribute to tools that help developers be more effective.
 <p align="center">
 <i>"The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." — Edsger W. Dijkstra</i>
 </p>
-
